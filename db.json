@@ -1,5 +1,4 @@
-{
-  "bankUsers":[
+[
   {
     "email": "johanna.mueller@example.com",
     "password": "Passw0rd123",
@@ -94,4 +93,4 @@
     ]
   }
 ]
-}
+
