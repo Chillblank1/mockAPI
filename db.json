@@ -1,10 +1,10 @@
 {
   "bankUsers":[
   {
-    "email": "aki.mainer@example.com",
-    "password": "123457",
+    "email": "aki.mueller@example.com",
+    "password": "123456789",
     "firstName": "Akima",
-    "lastName": "Mainer",
+    "lastName": "Mueller",
     "address": {
       "street": "123 Independence Ave",
       "city": "Windhoek",
@@ -50,9 +50,9 @@
     ]
   },
   {
-    "email": "sarah.ekandjo@example.com",
-    "password": "11456",
-    "firstName": "Sarah",
+    "email": "sara.ekandjo@example.com",
+    "password": "Windhoek456",
+    "firstName": "Sara",
     "lastName": "Ekandjo",
     "address": {
       "street": "456 Parliament St",
