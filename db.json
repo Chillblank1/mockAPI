@@ -89,8 +89,55 @@
             "amount": -1000.00
           }
         ]
+      
       }
     ]
-  }
-]
+  },
+      {
+        "email": "peter.grootfontein@example.com",
+        "password": "Grootfontein@123",
+        "firstName": "Peter",
+        "lastName": "Grootfontein",
+        "address": {
+          "street": "123 Grootfontein St",
+          "city": "Windhoek",
+          "state": "",
+          "zipCode": "9000"
+        },
+        "phone": "+264 61 890 1234",
+        "accounts": [
+          {
+            "accountType": "Cheque",
+            "balance": 3500.25,
+            "cardPIN": 9012,
+            "transactions": [
+              {
+                "dateTime": "2023-04-20T11:15:00+01:00",
+                "description": "ATM Withdrawal",
+                "amount": -300.00
+              },
+              {
+                "dateTime": "2023-04-25T17:40:00+01:00",
+                "description": "Deposit",
+                "amount": 200.00
+              }
+            ]
+          },
+          {
+            "accountType": "Savings",
+            "balance": 8000.00,
+            "cardPIN": 3456,
+            "transactions": [
+              {
+                "dateTime": "2023-04-30T12:30:00+01:00",
+                "description": "Online Transfer",
+                "amount": -1000.00
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  
+
 
